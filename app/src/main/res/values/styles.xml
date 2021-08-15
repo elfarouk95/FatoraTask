@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="TabTextAppearance" parent="TextAppearance.Design.Tab">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">13.5sp</item>
+        <item name="android:lineSpacingExtra">8.7sp</item>
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+</resources>
